@@ -1,0 +1,28 @@
+.btn {
+  background-color: #9c61fb;
+  font-size: 20px;
+}
+
+.nav-contents .nav-link,
+.navbar-brand {
+  color: white;
+}
+
+.search-col {
+}
+
+.map-container {
+  height: 80vh;
+}
+
+#filtBtn {
+  background-color: pink;
+  border-color: pink;
+}
+
+.App {
+}
+
+hr {
+  margin: 0;
+}
