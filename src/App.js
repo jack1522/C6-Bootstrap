@@ -32,24 +32,24 @@ function App() {
             ></DropdownButton>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/home">Discover</Nav.Link>
+            <Nav.Link href="#">Discover</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/home">Animation</Nav.Link>
+            <Nav.Link href="#">Animation</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/home">Branding</Nav.Link>
+            <Nav.Link href="#">Branding</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/home">Illustration</Nav.Link>
+            <Nav.Link href="#">Illustration</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/home">Mobile</Nav.Link>
+            <Nav.Link href="#">Mobile</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="/home">Print </Nav.Link>
+            <Nav.Link href="#">Print </Nav.Link>
           </Nav.Item>
-          <Nav.Link href="/home">
+          <Nav.Link href="#">
             <FontAwesomeIcon
               icon={faChevronRight}
               style={{ color: "#a6a6a6" }}
